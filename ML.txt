@@ -1,2 +1,4 @@
 ML
 Dodanie drugiej linii kodu.
+
+Kolejna linia bardzo nudnego kodu.
